@@ -1,0 +1,69 @@
+[
+    {
+        "domain": "grok.com",
+        "registrar": "Cloudflare, Inc.",
+        "creation_date": "1994-05-19 04:00:00+00:00",
+        "expiration_date": "2034-05-20 04:00:00+00:00",
+        "name_servers": [
+            "CARTMAN.NS.CLOUDFLARE.COM",
+            "ROBIN.NS.CLOUDFLARE.COM"
+        ],
+        "status": [],
+        "error": null
+    },
+    {
+        "domain": "grok.com",
+        "record_type": "A",
+        "records": [
+            "104.18.28.234",
+            "104.18.29.234"
+        ],
+        "error": null
+    },
+    {
+        "domain": "grok.com",
+        "record_type": "MX",
+        "records": [
+            "1 smtp.google.com."
+        ],
+        "error": null
+    },
+    {
+        "domain": "grok.com",
+        "record_type": "TXT",
+        "records": [
+            "\"google-site-verification=LUrbvedWB08Lr6Eo7bSkjmxhFbMA73AEPUICgtIay4o\"",
+            "\"google-site-verification=N5d00H9pSs2bM_8iBn_HE0dphOgKgEM482P9kFDw7vA\"",
+            "\"google-site-verification=dCnWUzaCYYMvk2nroNDkzoOBvFbIxvv-9oXpJJwu7JE\"",
+            "\"tiktok-developers-site-verification=t1AQw6I3nx1EagxdItHwZrz3wMgS5sCZ\""
+        ],
+        "error": null
+    },
+    {
+        "domain": "grok.com",
+        "expiration_alert": "N/A",
+        "error": "Invalid expiration date format: unconverted data remains:  04:00:00+00:00"
+    },
+    {
+        "domain": "grok.com",
+        "rdap_registrar": "4.0",
+        "rdap_status": [
+            "client transfer prohibited"
+        ],
+        "error": null
+    },
+    {
+        "domain": "grok.com",
+        "dnssec_valid": false,
+        "error": "DNSSEC validation requires python cryptography"
+    },
+    {
+        "domain": "grok.com",
+        "threat_info": null,
+        "error": "{'error': {'code': 403, 'message': 'The credentials you entered do not match an active account.'}, 'resources': {'support': 'https://docs.domaintools.com'}}"
+    },
+    {
+        "domain": "grok.com",
+        "availability": "Not Available"
+    }
+]
